@@ -1,0 +1,14 @@
+C:\Users\kleid\source\repos\cf7-csharp\FiboWithArray\bin\Debug\net8.0\FiboWithArray.exe
+C:\Users\kleid\source\repos\cf7-csharp\FiboWithArray\bin\Debug\net8.0\FiboWithArray.deps.json
+C:\Users\kleid\source\repos\cf7-csharp\FiboWithArray\bin\Debug\net8.0\FiboWithArray.runtimeconfig.json
+C:\Users\kleid\source\repos\cf7-csharp\FiboWithArray\bin\Debug\net8.0\FiboWithArray.dll
+C:\Users\kleid\source\repos\cf7-csharp\FiboWithArray\bin\Debug\net8.0\FiboWithArray.pdb
+C:\Users\kleid\source\repos\cf7-csharp\FiboWithArray\obj\Debug\net8.0\FiboWithArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kleid\source\repos\cf7-csharp\FiboWithArray\obj\Debug\net8.0\FiboWithArray.AssemblyInfoInputs.cache
+C:\Users\kleid\source\repos\cf7-csharp\FiboWithArray\obj\Debug\net8.0\FiboWithArray.AssemblyInfo.cs
+C:\Users\kleid\source\repos\cf7-csharp\FiboWithArray\obj\Debug\net8.0\FiboWithArray.csproj.CoreCompileInputs.cache
+C:\Users\kleid\source\repos\cf7-csharp\FiboWithArray\obj\Debug\net8.0\FiboWithArray.dll
+C:\Users\kleid\source\repos\cf7-csharp\FiboWithArray\obj\Debug\net8.0\refint\FiboWithArray.dll
+C:\Users\kleid\source\repos\cf7-csharp\FiboWithArray\obj\Debug\net8.0\FiboWithArray.pdb
+C:\Users\kleid\source\repos\cf7-csharp\FiboWithArray\obj\Debug\net8.0\FiboWithArray.genruntimeconfig.cache
+C:\Users\kleid\source\repos\cf7-csharp\FiboWithArray\obj\Debug\net8.0\ref\FiboWithArray.dll

@@ -1,0 +1,14 @@
+C:\Users\kleid\source\repos\cf7-csharp\OutputApp\bin\Debug\net8.0\OutputApp.exe
+C:\Users\kleid\source\repos\cf7-csharp\OutputApp\bin\Debug\net8.0\OutputApp.deps.json
+C:\Users\kleid\source\repos\cf7-csharp\OutputApp\bin\Debug\net8.0\OutputApp.runtimeconfig.json
+C:\Users\kleid\source\repos\cf7-csharp\OutputApp\bin\Debug\net8.0\OutputApp.dll
+C:\Users\kleid\source\repos\cf7-csharp\OutputApp\bin\Debug\net8.0\OutputApp.pdb
+C:\Users\kleid\source\repos\cf7-csharp\OutputApp\obj\Debug\net8.0\OutputApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kleid\source\repos\cf7-csharp\OutputApp\obj\Debug\net8.0\OutputApp.AssemblyInfoInputs.cache
+C:\Users\kleid\source\repos\cf7-csharp\OutputApp\obj\Debug\net8.0\OutputApp.AssemblyInfo.cs
+C:\Users\kleid\source\repos\cf7-csharp\OutputApp\obj\Debug\net8.0\OutputApp.csproj.CoreCompileInputs.cache
+C:\Users\kleid\source\repos\cf7-csharp\OutputApp\obj\Debug\net8.0\OutputApp.dll
+C:\Users\kleid\source\repos\cf7-csharp\OutputApp\obj\Debug\net8.0\refint\OutputApp.dll
+C:\Users\kleid\source\repos\cf7-csharp\OutputApp\obj\Debug\net8.0\OutputApp.pdb
+C:\Users\kleid\source\repos\cf7-csharp\OutputApp\obj\Debug\net8.0\OutputApp.genruntimeconfig.cache
+C:\Users\kleid\source\repos\cf7-csharp\OutputApp\obj\Debug\net8.0\ref\OutputApp.dll
