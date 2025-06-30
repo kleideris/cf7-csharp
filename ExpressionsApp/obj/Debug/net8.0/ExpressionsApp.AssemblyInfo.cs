@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpressionsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e531ced3727f0b20a78da4bf27842bf7e9bce8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpressionsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpressionsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
