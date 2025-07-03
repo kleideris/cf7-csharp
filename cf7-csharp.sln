@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IgnoreNegatives", "IgnoreNe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerApp", "PowerApp\PowerApp.csproj", "{1869973E-BF57-4F8C-A823-162F16BC8CE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimesApp", "PrimesApp\PrimesApp.csproj", "{C88AA7E4-D70C-4A3F-AAF7-A21B0EF0F06D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuroToDollarApp", "EuroToDollarApp\EuroToDollarApp.csproj", "{314C9D85-56D1-4E2D-8578-D125FFE2D730}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{1869973E-BF57-4F8C-A823-162F16BC8CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1869973E-BF57-4F8C-A823-162F16BC8CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1869973E-BF57-4F8C-A823-162F16BC8CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88AA7E4-D70C-4A3F-AAF7-A21B0EF0F06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88AA7E4-D70C-4A3F-AAF7-A21B0EF0F06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88AA7E4-D70C-4A3F-AAF7-A21B0EF0F06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88AA7E4-D70C-4A3F-AAF7-A21B0EF0F06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314C9D85-56D1-4E2D-8578-D125FFE2D730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314C9D85-56D1-4E2D-8578-D125FFE2D730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314C9D85-56D1-4E2D-8578-D125FFE2D730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314C9D85-56D1-4E2D-8578-D125FFE2D730}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
