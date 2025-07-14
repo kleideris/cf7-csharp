@@ -3,7 +3,7 @@
 namespace PowerApp
 {
     /// <summary>
-    /// Calculates a base number b raised in a power (b ^ power), ex: 2^10 = 1024
+    /// Calculates the value of a base number b raised to a power (b ^ power), ex: 2^10 = 1024
     /// </summary>
     internal class Program
     {
