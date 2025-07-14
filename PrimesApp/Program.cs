@@ -4,29 +4,36 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter a number.");
+            Console.WriteLine("Please enter a non-negative integer to list all prime numbers up to that value:");
             int number = int.Parse(Console.ReadLine()!);
 
-            if (IsPrime(number))
+            for (int i = 0; i <= number; i++)
             {
-                Console.WriteLine($"{number} is prime.");
-            } else
-            {
-                Console.WriteLine($"{number} is not prime.");
+                if (IsPrime(i))
+                {
+                    Console.WriteLine($"{i,3} is a prime number.");
+                }
             }
         }
 
-        public static bool IsPrime(int number)
+        public static bool IsPrime(int n)
         {
-            if (number <= 1) return false;
-            for (int i = 2; i < number; i++)
+            bool prime = true;
+
+            if (n < 2)
             {
-                if (number % i == 0)
+                return false; // 0 and 1 are not prime numbers
+            }
+
+            for (int divider = 2; divider <= Math.Sqrt(n); divider++)
+            {
+                if (n % divider == 0)
                 {
-                    return false;
+                    prime = false;
+                    break;
                 }
             }
-            return true;
+            return prime;
         }
     }
 }
