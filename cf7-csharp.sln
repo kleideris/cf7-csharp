@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyingApp", "CopyingAPp\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraction", "Fraction\Fraction.csproj", "{D8419B15-D387-4708-9615-BA892CB6188F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesApp", "InterfacesApp\InterfacesApp.csproj", "{9C09B08C-E462-45CC-A572-C54CE845B41B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{D8419B15-D387-4708-9615-BA892CB6188F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8419B15-D387-4708-9615-BA892CB6188F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8419B15-D387-4708-9615-BA892CB6188F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C09B08C-E462-45CC-A572-C54CE845B41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C09B08C-E462-45CC-A572-C54CE845B41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C09B08C-E462-45CC-A572-C54CE845B41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C09B08C-E462-45CC-A572-C54CE845B41B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
