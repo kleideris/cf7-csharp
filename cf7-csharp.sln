@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOApp", "OOApp\OOApp.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountApp", "AccountApp\AccountApp.csproj", "{5F3365B5-58CA-4133-967B-7C0C2D04E818}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointApp", "PointApp\PointApp.csproj", "{F1D249F2-5552-4CEC-B825-A4D260A413D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{5F3365B5-58CA-4133-967B-7C0C2D04E818}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F3365B5-58CA-4133-967B-7C0C2D04E818}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F3365B5-58CA-4133-967B-7C0C2D04E818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D249F2-5552-4CEC-B825-A4D260A413D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D249F2-5552-4CEC-B825-A4D260A413D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D249F2-5552-4CEC-B825-A4D260A413D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D249F2-5552-4CEC-B825-A4D260A413D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
