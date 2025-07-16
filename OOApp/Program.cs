@@ -17,10 +17,12 @@ namespace OOApp
                 Lastname = "Gianoutsou"
             };
 
+            Teacher bob2 = new Teacher(1, "Bob", "Dylan", SchoolType.KEK);
+
             anna.Firstname = "Georgia"; // here it works as setter
             Console.WriteLine(anna.Firstname);  // here it works as getter
 
-            Teacher andreas = new Teacher(1,"Andreas","Androutsos");
+            Teacher andreas = new Teacher(1, "Andreas", "Androutsos", SchoolType.KEK);
         }
     }
 }
