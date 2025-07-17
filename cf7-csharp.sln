@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsApp", "Collectio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsComparerApp", "ProductsComparerApp\ProductsComparerApp.csproj", "{DE71F97A-B252-4815-A634-390F3C05A26F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqApp", "LinqApp\LinqApp.csproj", "{A7FE1E2A-D548-4401-A0BA-4DFA4887A477}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{DE71F97A-B252-4815-A634-390F3C05A26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE71F97A-B252-4815-A634-390F3C05A26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE71F97A-B252-4815-A634-390F3C05A26F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FE1E2A-D548-4401-A0BA-4DFA4887A477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FE1E2A-D548-4401-A0BA-4DFA4887A477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FE1E2A-D548-4401-A0BA-4DFA4887A477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FE1E2A-D548-4401-A0BA-4DFA4887A477}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
