@@ -69,6 +69,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraction", "Fraction\Fracti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesApp", "InterfacesApp\InterfacesApp.csproj", "{9C09B08C-E462-45CC-A572-C54CE845B41B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointMonolithic", "PointMonolithic\PointMonolithic.csproj", "{87488C66-2079-4177-94BD-22890B89F110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassesApp", "AbstractClassesApp\AbstractClassesApp.csproj", "{59F07721-E4D1-4FB3-99FA-0B424C90B12D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsApp", "CollectionsApp\CollectionsApp.csproj", "{7679010F-A075-4AC6-B538-35E7C0373DF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +213,18 @@ Global
 		{9C09B08C-E462-45CC-A572-C54CE845B41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C09B08C-E462-45CC-A572-C54CE845B41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C09B08C-E462-45CC-A572-C54CE845B41B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87488C66-2079-4177-94BD-22890B89F110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87488C66-2079-4177-94BD-22890B89F110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87488C66-2079-4177-94BD-22890B89F110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87488C66-2079-4177-94BD-22890B89F110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F07721-E4D1-4FB3-99FA-0B424C90B12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F07721-E4D1-4FB3-99FA-0B424C90B12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F07721-E4D1-4FB3-99FA-0B424C90B12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F07721-E4D1-4FB3-99FA-0B424C90B12D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7679010F-A075-4AC6-B538-35E7C0373DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7679010F-A075-4AC6-B538-35E7C0373DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7679010F-A075-4AC6-B538-35E7C0373DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7679010F-A075-4AC6-B538-35E7C0373DF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
