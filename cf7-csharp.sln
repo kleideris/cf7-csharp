@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManagment", "FileManagm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppStarter", "WebAppStarter\WebAppStarter.csproj", "{67A1BDEA-A6E1-4488-80D1-1C233307DDCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppStarter_DB", "WebAppStarter_DB\WebAppStarter_DB.csproj", "{37DC982C-E675-4242-B8E5-21D89C51632A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{67A1BDEA-A6E1-4488-80D1-1C233307DDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67A1BDEA-A6E1-4488-80D1-1C233307DDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67A1BDEA-A6E1-4488-80D1-1C233307DDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37DC982C-E675-4242-B8E5-21D89C51632A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DC982C-E675-4242-B8E5-21D89C51632A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DC982C-E675-4242-B8E5-21D89C51632A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DC982C-E675-4242-B8E5-21D89C51632A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
