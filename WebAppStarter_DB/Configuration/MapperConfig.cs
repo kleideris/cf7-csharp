@@ -10,7 +10,7 @@ namespace WebAppStarter_DB.Configuration
         public MapperConfig() 
         {
             CreateMap<StudentInsertDTO, Student>().ReverseMap();
-            CreateMap<StudentUpdateDTO, Student >().ReverseMap();
+            CreateMap<StudentUpdateDTO, Student>().ReverseMap();
             CreateMap<StudentReadOnlyDTO, Student>().ReverseMap();
         }
     }

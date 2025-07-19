@@ -12,7 +12,7 @@ namespace WebAppStarter_DB
 
             // Add services to the container.
             builder.Services.AddRazorPages();
-            builder.Services.AddAutoMapper(typeof(MapperConfig));
+            builder.Services.AddAutoMapper(cfg => { cfg.AddMaps(typeof(MapperConfig).Assembly); });
             builder.Host.UseSerilog((context, config) =>
             {
                 config.ReadFrom.Configuration(context.Configuration);
