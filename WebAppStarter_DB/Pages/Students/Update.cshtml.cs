@@ -39,8 +39,12 @@ namespace WebAppStarter_DB.Pages.Students
             return Page();
         }
 
-        public void onPost(int id)
+        public void OnPost(int id)
         {
+            if (!ModelState.IsValid)
+            {
+                return;
+            }
             try
             {
                 StudentUpdateDTO.Id = id;
