@@ -2,14 +2,14 @@
 {
     public class StudentReadOnlyDTO : BaseDTO
     {
-        public string Fristname { get; set; }
+        public string Firstname { get; set; }
         public string Lastname { get; set; }
 
         public StudentReadOnlyDTO() { }
 
-        public StudentReadOnlyDTO(string fristname, string lastname)
+        public StudentReadOnlyDTO(string firstname, string lastname)
         {
-            Fristname = fristname;
+            Firstname = firstname;
             Lastname = lastname;
         }
     }
