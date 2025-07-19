@@ -1,6 +1,8 @@
 using Serilog;
 using Serilog.Events;
 using WebAppStarter_DB.Configuration;
+using WebAppStarter_DB.DAO;
+using WebAppStarter_DB.Services;
 
 namespace WebAppStarter_DB
 {
@@ -12,6 +14,9 @@ namespace WebAppStarter_DB
 
             // Add services to the container.
             builder.Services.AddRazorPages();
+            builder.Services.AddScoped<IStudentDAO, StudentDAOImpl>();
+            builder.Services.AddScoped<IStudentService, StudentServiceImpl>();
+
             builder.Services.AddAutoMapper(cfg => { cfg.AddMaps(typeof(MapperConfig).Assembly); });
             builder.Host.UseSerilog((context, config) =>
             {
