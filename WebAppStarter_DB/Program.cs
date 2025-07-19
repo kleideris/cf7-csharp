@@ -1,3 +1,7 @@
+using Serilog;
+using Serilog.Events;
+using WebAppStarter_DB.Configuration;
+
 namespace WebAppStarter_DB
 {
     public class Program
@@ -8,6 +12,25 @@ namespace WebAppStarter_DB
 
             // Add services to the container.
             builder.Services.AddRazorPages();
+            builder.Services.AddAutoMapper(typeof(MapperConfig));
+            builder.Host.UseSerilog((context, config) =>
+            {
+                config.ReadFrom.Configuration(context.Configuration);
+                //config
+                //.MinimumLevel.Debug()
+                //.MinimumLevel.Override("Microsoft", LogEventLevel.Information)
+                //.Enrich.FromLogContext()
+                ////.Enrich.WithAspNetCore()
+                //.WriteTo.Console()
+                //.WriteTo.File(
+                //    "Logs/Logs.txt",
+                //    RollingInterval: RollingInterval.Day,
+                //    outputTemplate: "{Timestamp:dd-MM-yyyy HH:mm:ss:fff zzz} {SourceContext} [{Debug}] " +
+                //        "{Message}{NewLine}{Exception}",
+                //    retainedFileCountLimit: null,
+                //    fileSizeLimitBytes: null
+                //    );
+            });
 
             var app = builder.Build();
 
