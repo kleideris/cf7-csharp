@@ -34,7 +34,7 @@ namespace WebAppStarter_DB.Pages.Students
 
             try
             {
-                StudentReadOnlyDTO studentReadOnlyDTO = _studentService.InsertStudent(studentInsertDTO);
+                StudentReadOnlyDTO? studentReadOnlyDTO = _studentService.InsertStudent(StudentInsertDTO);
                 Response.Redirect("/Students/getall");
             }
             catch (Exception ex)
