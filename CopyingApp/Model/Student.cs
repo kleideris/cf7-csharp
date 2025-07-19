@@ -42,7 +42,7 @@ namespace CopyingApp.Model
                 StreetNo = Address!.StreetNo,
                 ZipCode = Address!.ZipCode
             };
-            return Student;
+            return student;
         }
     }
 }
